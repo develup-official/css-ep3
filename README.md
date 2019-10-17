@@ -4,15 +4,20 @@
 - https://goor.me/r91aK
 
 ## Git Repository
-업데이트 예정
+https://github.com/develup-official/css-ep3
 
 ## 강의 전체내용 Youtube URL
-업데이트 예정
+https://www.youtube.com/watch?v=YR9F_KTbCA0
 
 ## 알아볼 개념
 - position 기초
 - transform 2D 개념
 - animation 기초
+
+## 디자인 리소스 링크
+- [Cityscape Vectors by Vecteezy](https://www.vecteezy.com/free-vector/cityscape)
+- [Tour Bus Vectors by Vecteezy](https://www.vecteezy.com/free-vector/tour-bus)
+- [Taxi Vectors by Vecteezy](https://www.vecteezy.com/free-vector/taxi)
 
 ## 참고사이트
 - [caniuse.com](https://caniuse.com)
